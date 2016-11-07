@@ -1,4 +1,4 @@
 {-# LANGUAGE OverloadedStrings #-}
 
 main :: IO ()
-main = putStrLn "Hello, haskell world!"
+main = print "Hello, haskell world!"
